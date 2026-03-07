@@ -31,5 +31,4 @@ images/ – visualizations
 
 ## Author
 
-Murad Muradov  
-Data Science Student
+Khadzhimurad Khutraev
