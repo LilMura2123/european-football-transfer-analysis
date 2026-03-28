@@ -88,6 +88,14 @@ We apply **KMeans clustering** to group clubs based on their transfer behavior.
 
 ---
 
+## 📊 Cluster Visualization
+
+Below is a visualization of clubs grouped by transfer strategy using PCA:
+
+![Cluster Visualization](images/pca_clusters.png)
+
+---
+
 # 🔥 The Result: 3 Transfer Strategies
 
 The analysis reveals **three distinct types of clubs**.
