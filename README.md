@@ -187,4 +187,4 @@ The analysis could be extended by:
 
 **Khadzhimurad Khutraev**  
 
-Student interested in data science, machine learning and neural networks.
+Data science student with a focus on machine learning and neural networks.
